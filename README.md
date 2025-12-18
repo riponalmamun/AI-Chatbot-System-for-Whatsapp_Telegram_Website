@@ -756,10 +756,9 @@ SOFTWARE.
 
 **Ripon Al Mamun**
 
-- GitHub: [@riponalmamun]([https://github.com/riponalmamun](https://github.com/riponalmamun))
+- GitHub: [@riponalmamun](https://github.com/riponalmamun)
 - Email: riponalmamunrasel@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdriponalmamun/))
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Md Ripon Al Mamun](https://www.linkedin.com/in/mdriponalmamun/)
 
 ---
 
